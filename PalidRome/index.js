@@ -5,4 +5,4 @@ const palidrome = (str) => {
   }
   return goo;
 };
-console.log(palidrome("mam"));
+console.log(palidrome("mama"));
